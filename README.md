@@ -1,6 +1,6 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=AryaReal's%20Github&animation=fadeIn&fontAlignY=38&fontSize=50">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&center=true&width=435&lines=Fullstack+Developer;Web+Developer;React-based+Framework;Express.js+Backend+Framework;Postgres+and+MySQL+Database">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&center=true&width=464&lines=Fullstack+Developer;Web+Developer;React-based+Framework;Express.js+Backend+Framework;Postgres+and+MySQL+Database">
 </div>
 
 ## 👨‍💻 About Me
