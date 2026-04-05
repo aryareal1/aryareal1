@@ -1,20 +1,26 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=AryaReal's%20Github&animation=fadeIn&fontAlignY=38&fontSize=50">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&center=true&width=464&lines=Fullstack+Developer;Web+Developer;React-based+Framework;Express.js+Backend+Framework;Postgres+and+MySQL+Database">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&center=true&width=522&lines=Fullstack+Web+Developer;Next.js+%26+React-based+Framework;Elysia.js+%26+Laravel+Backend;PostgresSQL+%26+MySQL+Database;TypeScript+Enthusiast">
 </div>
 
 ## 👨‍💻 About Me
-Hi! I’m **Arya** — a passionate Web Developer currently focused on becoming a **Fullstack Developer**.  
-I primarily work with React-based frameworks such as **Next.js** and **Astro** for frontend development, and I’m expanding my skills in backend development using **Express.js** and **RESTful APIs**.
+Hi! I’m **Arya** — a passionate Web Developer currently focused on becoming a **Fullstack Web Developer**.  
+I primarily work with React-based frameworks such as **Next.js** for frontend development, and I’m expanding my skills in backend development using **Elysia.js** and **Laravel**.
 
 I’m proficient in:
 - Structuring and developing projects with Next.js
 - Styling using **Tailwind CSS**
 - Utilizing essential **React** libraries
-- Implementing **API routes**, **data fetching**, and **database connections**
+- Using **Laravel** to make **REST API** and **managing database**
+
+Since I am a TS Enthusiast, I primarily work with **Next.js** and/or **Elysia.js** for making my project. I've also tried to use **Laravel** recently.
 
 For databases, I’ve gained hands-on experience with **Supabase** and **MongoDB**, and I’m currently learning **PostgreSQL**, **MySQL**, and **NoSQL** concepts.
 I’ve also explored **Supabase Authentication** and **Realtime features** to enhance user experience and interactivity in my projects.
+
+Beside web development, I also do other things like:
+- Configuring/setup Minecraft server (also plugins)
+- Writing script in TS for something (e.g. Discord Bot)
 
 ---
 
